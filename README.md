@@ -11,7 +11,7 @@ I'm a Systems Analysis and Development student at INPG Business School - São Pa
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcos-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="right" alt="Marcos-Gif" height="75" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+  <img align="right" alt="Marcos-Gif" height="150" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 </div>
   
   ##
